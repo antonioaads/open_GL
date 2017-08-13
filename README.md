@@ -5,8 +5,16 @@ utilização de textura e outras funções interesantes.
 
 ## O que deve ser feito
 
-1. Acesse o [código do shell script](https://raw.githubusercontent.com/antonioaads/open_GL/master/openGL_withSOIL.sh)
-2. Salve esse cógigo em sua máquina (Ctrl+s), na extensão **nome.sh**
+1. Acesse o [código do shell script](https://raw.githubusercontent.com/antonioaads/open_GL/master/openGL_withSOIL.sh).
+2. Salve esse cógigo em sua máquina (Ctrl+s), na extensão **nome_que_desejar.sh**
+3. Abra o terminal (Ctrl+Alt+t).
+4. Entre no diretório onde salvou o arquivo **nome_que_desejar.sh**
+  - Exemplo, caso tenha salvado na área de trabalho, execute: **cd Área\ de\ Trabalho/** 
+5. Já no diretório onde se encontra o shell script, execute: **chmod +x nome_que_desejar.sh**
+  - Tal comando serve para tornar o script executável.
+6. Entre no modo super administrador com o comando **sudo su** e digite sua senha.
+7. Agora, finalmente, é só executar o shell script, através do comando: **./nome_que_desejar.sh**
+8. Aguarde uma série de comandos, e assim que terminar, terá uma tela semelhante a [essa] e estará tudo pronto para o uso.
 
 Esse ambiente é composto por:
 

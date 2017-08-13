@@ -3,18 +3,27 @@
 Este tutorial tem como obejtivo facilitar a instalação da biblioteca OpenGL, já incluindo a SOIL, que possibilita a
 utilização de textura e outras funções interesantes.
 
-## O que deve ser feito
+## Passo a passo
 
 1. Acesse o [código do shell script](https://raw.githubusercontent.com/antonioaads/open_GL/master/openGL_withSOIL.sh).
 2. Salve esse cógigo em sua máquina (Ctrl+s), na extensão **nome_que_desejar.sh**
+![Imagem mostrando a gravação do arquivo](Passo1.png)
 3. Abra o terminal (Ctrl+Alt+t).
 4. Entre no diretório onde salvou o arquivo **nome_que_desejar.sh**
   - Exemplo, caso tenha salvado na área de trabalho, execute: **cd Área\ de\ Trabalho/** 
+  ![Imagem mostrando o acesso ao diretório](Passo2.png)
 5. Já no diretório onde se encontra o shell script, execute: **chmod +x nome_que_desejar.sh**
   - Tal comando serve para tornar o script executável.
+  ![Imagem mostrando a execução do comando chmod](Passo3.png)
 6. Entre no modo super administrador com o comando **sudo su** e digite sua senha.
+  ![Imagem mostrando o acesso ao super admin](Passo4.png)
 7. Agora, finalmente, é só executar o shell script, através do comando: **./nome_que_desejar.sh**
-8. Aguarde uma série de comandos, e assim que terminar, terá uma tela semelhante a [essa] e estará tudo pronto para o uso.
+  ![Executando o script](Passo5.png)
+8. Aguarde uma série de status.
+  ![Imagem mostrando a execução do script](Passo6.png)
+9. Assim que terminar, teremos uma tela semelhante a abaixo:
+  ![Imagem mostrando o final da instalação](Passo7.png)
+10. Pronto.
 
 ## Testando o ambiente
 

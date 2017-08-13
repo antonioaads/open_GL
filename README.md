@@ -30,9 +30,11 @@ utilização de textura e outras funções interesantes.
 Para testar se o ambiente está funcionando, você deve usar o programa
 `quadrado.c`. Siga os passos:
 
-1. Baixar o [código fonte](https://raw.githubusercontent.com/antonioaads/open_GL/master/testeopenGL)
-1. Criar um projeto na sua IDE/editor de texto e configurá-lo devidamente
-1. Compilar e executar
+1. Baixar o [código fonte](https://raw.githubusercontent.com/antonioaads/open_GL/master/testeopenGL) e salvá-lo com extensão  **nome_que_desejar.c**
+1. Compilar com o seguinte comando no terminal: **gcc nome_que_desejar.c -lglut -lGL -lGLEW -lGLU**
+  - Caso queira um executável com nome diferente de `a.out`, utilize: **gcc nome_que_desejar.c -lglut -lGL -lGLEW -lGLU -o nome_do_executavel**
+1. Executar utilizando: **./a.out**.
+  - Caso tenha usado um nome específico para o executável, utilize: **./nome_do_executavel**
 
 O programa deve compilar e executar corretamente, gerando o seguinte resultado:
 
@@ -43,9 +45,11 @@ O programa deve compilar e executar corretamente, gerando o seguinte resultado:
 Para testar se o ambiente está funcionando, você deve usar o programa
 `testeSOIL.c`. Siga os passos:
 
-1. Baixar o [código fonte](https://raw.githubusercontent.com/antonioaads/open_GL/master/testeSOIL)
-1. Criar um projeto na sua IDE/editor de texto e configurá-lo devidamente
-1. Compilar e executar
+1. Baixar o [código fonte](https://raw.githubusercontent.com/antonioaads/open_GL/master/testeSOIL) e salvá-lo com extensão  **nome_que_desejar.c**
+1. Compilar com o seguinte comando no terminal: **gcc nome_que_desejar.c -lSOIL -lglut -lGL -lGLEW -lGLU**
+  - Caso queira um executável com nome diferente de `a.out`, utilize: **gcc nome_que_desejar.c -lSOIL -lglut -lGL -lGLEW -lGLU -o nome_do_executavel**
+1. Executar utilizando: **./a.out**.
+  - Caso tenha usado um nome específico para o executável, utilize: **./nome_do_executavel**
 
 O programa deve compilar e executar corretamente, gerando o seguinte resultado:
 

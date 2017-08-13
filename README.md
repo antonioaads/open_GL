@@ -50,6 +50,7 @@ Para testar se o ambiente está funcionando, você deve usar o programa
   - Caso queira um executável com nome diferente de `a.out`, utilize: **gcc nome_que_desejar.c -lSOIL -lglut -lGL -lGLEW -lGLU -o nome_do_executavel**
 1. Executar utilizando: **./a.out**.
   - Caso tenha usado um nome específico para o executável, utilize: **./nome_do_executavel**
+  - Esse programa requer que [esta imagem][mario] esteja na mesma pasta do programa executável.
 
 O programa deve compilar e executar corretamente, gerando o seguinte resultado:
 

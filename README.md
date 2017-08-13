@@ -16,29 +16,6 @@ utilização de textura e outras funções interesantes.
 7. Agora, finalmente, é só executar o shell script, através do comando: **./nome_que_desejar.sh**
 8. Aguarde uma série de comandos, e assim que terminar, terá uma tela semelhante a [essa] e estará tudo pronto para o uso.
 
-Esse ambiente é composto por:
-
-- Um **sistema operacional** dentre: Windows, Linux e OSX
-- Um **editor de texto** ou **IDE**. Exemplos:
-  - CodeBlocks
-  - Dev-C++
-  - Eclipse
-  - Visual Studio
-  - XCode
-  - Sublime Text
-  - Atom
-  - VSCode
-
-O OpenGL tipicamente já está "instalado" no computador - ele faz parte do
-_driver_ da placa de vídeo. Contudo, vamos precisar de outras bibliotecas,
-sendo elas:
-
-- **freeglut** (_Free OpenGL Utilities Toolkit_), para poder criar janelas
-  e desenhar usando comandos do OpenGL dentro delas
-- **glew** (_OpenGL Extension Wrangler_), para gerenciar qual versão do OpenGL
-  deseja-se usar
-
-
 ## Testando o ambiente
 
 Para testar se o ambiente está funcionando, você deve usar o programa

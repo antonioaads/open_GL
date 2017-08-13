@@ -21,14 +21,13 @@ utilização de textura e outras funções interesantes.
 Para testar se o ambiente está funcionando, você deve usar o programa
 `quadrado.c`. Siga os passos:
 
-1. Baixar o [código fonte](https://raw.githubusercontent.com/fegemo/cefet-cg-exemplos-opengl/master/quadrado/main.c)
+1. Baixar o [código fonte](https://raw.githubusercontent.com/antonioaads/open_GL/master/testeopenGL)
 1. Criar um projeto na sua IDE/editor de texto e configurá-lo devidamente
-1. **Modificar o título** da janela para **mostrar o seu nome**
 1. Compilar e executar
 
 O programa deve compilar e executar corretamente, gerando o seguinte resultado:
 
-![Imagem mostrando uma janela com o fundo branco e um quadrado verde, centralizado, ocupando aparentemente 50% do espaço](../../images/opengl-hw-inicial.png)
+![Imagem mostrando uma janela com o fundo branco e um quadrado verde, centralizado, ocupando aparentemente 50% do espaço](../../open_GL/quadrado.png)
 
 ## O que deve ser entregue
 

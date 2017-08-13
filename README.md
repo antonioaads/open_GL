@@ -7,7 +7,7 @@ utilização de textura e outras funções interesantes.
 
 1. Acesse o [código do shell script](https://raw.githubusercontent.com/antonioaads/open_GL/master/openGL_withSOIL.sh).
 2. Salve esse cógigo em sua máquina (Ctrl+s), na extensão **nome_que_desejar.sh**
-![Imagem mostrando a gravação do arquivo](Passo7.png)
+![Imagem mostrando a gravação do arquivo](Passo1.png)
 3. Abra o terminal (Ctrl+Alt+t).
 4. Entre no diretório onde salvou o arquivo **nome_que_desejar.sh**
   - Exemplo, caso tenha salvado na área de trabalho, execute: **cd Área\ de\ Trabalho/** 

@@ -1,7 +1,9 @@
 # Instalação OpenGL e SOIL - Linux Min
 
 Este tutorial tem como obejtivo facilitar a instalação da biblioteca OpenGL, já incluindo a SOIL, que possibilita a
-utilização de textura e outras funções interesantes.
+utilização de textura e outras funções interesantes. 
+As característica do sistema operacional utilizado segue abaixo:
+![Imagem mostrando o S.O.](so.png)
 
 ## Passo a passo
 

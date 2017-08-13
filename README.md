@@ -5,9 +5,8 @@ utilização de textura e outras funções interesantes.
 
 ## O que deve ser feito
 
-Em particular, você deve **configurar um ambiente de desenvolvimento** em
-linguagem C/C++ de forma que seja possível **compilar e executar programas
-que usam OpenGL**.
+1. Acesse o [código do shell script](https://raw.githubusercontent.com/antonioaads/open_GL/master/openGL_withSOIL.sh)
+2. Salve esse cógigo em sua máquina (Ctrl+s), na extensão **nome.sh**
 
 Esse ambiente é composto por:
 

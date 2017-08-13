@@ -55,3 +55,5 @@ Para testar se o ambiente está funcionando, você deve usar o programa
 O programa deve compilar e executar corretamente, gerando o seguinte resultado:
 
 ![Imagem mostrando uma janela com o MARIO](testeMARIO.png)
+
+Divirtam-se.
